@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     color: #333;
 }
 
@@ -20,6 +20,11 @@ header h1 {
 
 header p {
     margin: 10px 0;
+}
+
+header .marketplace-link {
+    color: #FFD700; /* Gold color for good contrast */
+    text-decoration: none;
 }
 
 main {
@@ -60,4 +65,9 @@ main {
 .nft-item .description .price {
     font-weight: bold;
     color: #e74c3c;
+}
+
+.nft-item .description .marketplace-link {
+    color: #1E90FF; /* Dodger Blue color for good contrast */
+    text-decoration: none;
 }
