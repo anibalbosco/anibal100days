@@ -25,7 +25,7 @@ Be on the lookout for beauty around you; if you open your eyes, it is everywhere
                 <h2>${nft.title}</h2>
                 <p>${nft.description}</p>
                 <p class="price">Minimum price: ${nft.price}</p>
-                <p><a href="${nft.marketplaceLink}" target="_blank">View on Marketplace</a></p>
+                <p><a href="${nft.marketplaceLink}" target="_blank" class="marketplace-link">View on Marketplace</a></p>
             </div>
         `;
 
