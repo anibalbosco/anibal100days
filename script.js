@@ -3,10 +3,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const nfts = [
         {
-            title: 'Day 1: Nature\'s Artistry',
+            title: 'Day 1: #1 Beach-1',
             description: 'A beautiful arrangement of seaweed, coral, and shells, showcasing nature\'s effortless beauty.',
-            imgSrc: 'path/to/your/image.png',
-            price: '0.000001 STX'
+            imgSrc: 'images/1.jpg',
+            price: '0.000001 STX',
+            marketplaceLink: 'https://stacks.gamma.io/collections/anibal-100-days/1'
         },
         // Add more NFT objects here for each day
     ];
@@ -21,6 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 <h2>${nft.title}</h2>
                 <p>${nft.description}</p>
                 <p class="price">Minimum price: ${nft.price}</p>
+                <p><a href="${nft.marketplaceLink}" target="_blank">View on Marketplace</a></p>
             </div>
         `;
 
