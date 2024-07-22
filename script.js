@@ -9,14 +9,14 @@ There was this green seaweed, branching out like tiny trees, looking so alive an
 Seeing this, it made me think about how nature, without any effort, arranges itself in the most beautiful ways. It’s a small reminder that beauty is everywhere, even in the simplest things, just waiting to be noticed and appreciated.
 Be on the lookout for beauty around you; if you open your eyes, it is everywhere.`,
             imgSrc: 'images/1.jpg',
-            price: '0.000001 STX',
+            price: '1 STX',
             marketplaceLink: 'https://stacks.gamma.io/collections/anibal-100-days/1'
         },
                 {
             title: 'Day 2: #2 Food-1',
             description: `These frames were shot while preparing school lunch for the kids. Did they ever tell you not to play with your food? Ignore them; food can be fun. After all, you are what you eat, so you might as well eat happy food.`,
             imgSrc: 'images/2.gif',
-            price: '0.000001 STX',
+            price: '1 STX',
             marketplaceLink: 'https://stacks.gamma.io/collections/anibal-100-days/2'
         },
         // Add more NFT objects here for each day
