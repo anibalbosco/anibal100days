@@ -12,6 +12,13 @@ Be on the lookout for beauty around you; if you open your eyes, it is everywhere
             price: '0.000001 STX',
             marketplaceLink: 'https://stacks.gamma.io/collections/anibal-100-days/1'
         },
+                {
+            title: 'Day 1: #1 Beach-1',
+            description: `These frames were shot while preparing school lunch for the kids. Did they ever tell you not to play with your food? Ignore them; food can be fun. After all, you are what you eat, so you might as well eat happy food.`,
+            imgSrc: 'images/2.gif',
+            price: '0.000001 STX',
+            marketplaceLink: 'https://stacks.gamma.io/collections/anibal-100-days/2'
+        },
         // Add more NFT objects here for each day
     ];
 
