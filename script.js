@@ -19,6 +19,13 @@ Be on the lookout for beauty around you; if you open your eyes, it is everywhere
             price: '1 STX',
             marketplaceLink: 'https://stacks.gamma.io/collections/anibal-100-days/2'
         },
+                        {
+            title: 'Day 3: #3 Peace-1',
+            description: `PEACE is the priority. Peace on war. Piece on war. Piss on war.`,
+            imgSrc: 'images/3.jpg',
+            price: '1 STX',
+            marketplaceLink: 'https://stacks.gamma.io/collections/anibal-100-days/3'
+        },
         // Add more NFT objects here for each day
     ];
 
